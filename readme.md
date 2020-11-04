@@ -1,4 +1,5 @@
-﻿
+<h1>Calculate Contact Form 7</h1>
+ 
 **[Calculate Contact Form 7](https://wordpress.org/plugins/cost-calculator-contact-form-7)** Provide easy to calculate contact form 7 to make Loan Calaculation, Booking Calaculation, Math Calaculation. **[Cost calculator Contact Form 7](https://wordpress.org/plugins/cost-calculator-contact-form-7)** can be Calaculation price base on text, checkbox , radio and select box base adding price with prefix in [WordPress](https://en.wikipedia.org/wiki/WordPress) site.
 
 **[Price calculator contact form 7](https://wordpress.org/plugins/cost-calculator-contact-form-7)** to make each field between to setup calculation to field so we can know costing for contact form 7.
