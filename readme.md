@@ -1,14 +1,7 @@
-﻿=== Calculate Contact Form 7  ===
-Tags: cost calculator, contact form 7, cf7 cost calculator, CF7 Estimate, Calculate Contact Form 7
-Tested up to: 5.4
-Requires PHP: 5.0
+﻿
+**[Calculate Contact Form 7](https://wordpress.org/plugins/cost-calculator-contact-form-7)** Provide easy to calculate contact form 7 to make Loan Calaculation, Booking Calaculation, Math Calaculation. **[Cost calculator Contact Form 7](https://wordpress.org/plugins/cost-calculator-contact-form-7)** can be Calaculation price base on text, checkbox , radio and select box base adding price with prefix in [WordPress](https://en.wikipedia.org/wiki/WordPress) site.
 
-== Description ==
-
-
-**Calculate Contact Form 7** Provide easy to calculate contact form 7 to make Loan Calaculation, Booking Calaculation, Math Calaculation. **Cost calculator Contact Form 7** can be Calaculation price base on text, checkbox , radio and select box base adding price with prefix in [WordPress](https://en.wikipedia.org/wiki/WordPress) site.
-
-**Price calculator contact form 7** to make each field between to setup calculation to field so we can know costing for contact form 7.
+**[Price calculator contact form 7](https://wordpress.org/plugins/cost-calculator-contact-form-7)** to make each field between to setup calculation to field so we can know costing for contact form 7.
 
 &#128312; **[Demos](http://oceanwebguru.com/oceanwebdemo/cost-calculator-contact-form-7-demo/)**
 
@@ -48,18 +41,18 @@ Requires PHP: 5.0
 > * You can put Prefix with field wise
 
 <h4>How it works Calculate Contact Form 7</h4>
-<iframe width="640" height="345" src="https://www.youtube.com/embed/OK8himVTbaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Contact form 7 with paypal** allow to payment with pass custom field if you want in paypal payment gateway
 
-You can be send **contact form 7 calculated fields** to email so we know how much costing need for it formula.
+**[Contact form 7 with paypal](https://wordpress.org/plugins/cost-calculator-contact-form-7)** allow to payment with pass custom field if you want in paypal payment gateway
+
+You can be send **[contact form 7 calculated fields](https://wordpress.org/plugins/cost-calculator-contact-form-7)** to email so we know how much costing need for it formula.
 
 **Calculate Contact Form 7** for best arithmetic expression provide to setup sum , deducation , multiplication and many other expersion can be make.
 
 
-Now days for calculation and getting data mostly using **contact form 7 calculate price** in your [WordPress](https://en.wikipedia.org/wiki/WordPress) site.
+Now days for calculation and getting data mostly using **[contact form 7 calculate price](https://wordpress.org/plugins/cost-calculator-contact-form-7)** in your [WordPress](https://en.wikipedia.org/wiki/WordPress) site.
 
-For multiple field with dropdown, radio, checkbox most using **calculated fields contact form 7**.
+For multiple field with dropdown, radio, checkbox most using **[calculated fields contact form 7](https://wordpress.org/plugins/cost-calculator-contact-form-7)**.
 
 
 
